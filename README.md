@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Zana Moradi</h1>
+<h1 align="center">ZANA MORADI</h1>
 
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">FRONT-END DEVELOPER</h3>
+
+<p align="center">
+  Building modern, responsive and user-friendly web interfaces.
+</p>
 
 <p align="center">
   <a href="https://github.com/Zana-moradi">
-    <img src="https://img.shields.io/github/followers/Zana-moradi?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/Zana-moradi?style=flat-square&label=Followers" />
   </a>
   <a href="https://github.com/Zana-moradi">
-    <img src="https://komarev.com/ghpvc/?username=Zana-moradi&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Zana-moradi&style=flat-square&label=Profile%20Views" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 01 — ABOUT ME
 
 I'm a Computer Engineering student and a Front-End Developer focused on building modern, responsive and user-friendly web interfaces.
 
@@ -26,7 +30,7 @@ I enjoy turning ideas into functional web experiences and improving my developme
 
 ---
 
-## 🛠️ Tech Stack
+## 02 — TECH STACK
 
 ### Front-End
 
@@ -48,28 +52,33 @@ I enjoy turning ideas into functional web experiences and improving my developme
 
 ---
 
-## 🚀 Featured Projects
+## 03 — FEATURED PROJECTS
 
 ### 🌐 Tailwind Footer
 
-A responsive footer project built with Tailwind CSS while practicing modern Front-End development.
+Responsive footer project built with Tailwind CSS while practicing modern Front-End development.
 
-🔗 [View Repository](https://github.com/Zana-moradi/tailwind-footer)
+**Tech:** HTML • Tailwind CSS
+
+<a href="https://github.com/Zana-moradi/tailwind-footer">
+  View Repository →
+</a>
 
 > More projects coming soon...
 
 ---
 
-## 📊 GitHub Stats
+## 04 — GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zana-moradi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zana-moradi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zana-moradi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zana-moradi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zana-moradi&theme=tokyonight&hide_border=true" />
