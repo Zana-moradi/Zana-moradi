@@ -60,26 +60,6 @@ I focus on writing understandable code, building practical projects and continuo
 
 <div align="center">
 
-## FEATURED PROJECT
-
-### `TAILWIND FOOTER`
-
-A modern responsive footer built with **Tailwind CSS**.
-
-<br>
-
-<a href="https://github.com/Zana-moradi/tailwind-footer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ## GITHUB ACTIVITY
 
 <br>
