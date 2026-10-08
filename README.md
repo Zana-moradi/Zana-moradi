@@ -1,91 +1,77 @@
-<h1 align="center">ZANA MORADI</h1>
+<div align="center">
 
-<h3 align="center">FRONT-END DEVELOPER</h3>
+# `ZANA MORADI`
 
-<p align="center">
-  Building modern, responsive and user-friendly web interfaces.
-</p>
+### `FRONT-END DEVELOPER`
 
-<p align="center">
-  <a href="https://github.com/Zana-moradi">
-    <img src="https://img.shields.io/github/followers/Zana-moradi?style=flat-square&label=Followers" />
-  </a>
-  <a href="https://github.com/Zana-moradi">
-    <img src="https://komarev.com/ghpvc/?username=Zana-moradi&style=flat-square&label=Profile%20Views" />
-  </a>
-</p>
+<br>
+
+`BUILD`   `LEARN`   `CREATE`
+
+<br><br>
+
+</div>
 
 ---
 
-## 01 — ABOUT ME
+## `01` — ABOUT ME
 
-I'm a Computer Engineering student and a Front-End Developer focused on building modern, responsive and user-friendly web interfaces.
+> **Front-End Developer** focused on building clean, modern and responsive web experiences.
 
-I enjoy turning ideas into functional web experiences and improving my development skills through practical projects.
+I enjoy turning ideas into real interfaces and improving my development skills through practical projects.
 
-* 🎓 Computer Engineering Student
-* 💻 Front-End Developer
-* 🌐 Interested in modern web development
-* 🚀 Building and experimenting with personal projects
+My focus is on writing clean code, understanding how things work, and continuously building better projects.
 
 ---
 
-## 02 — TECH STACK
+## `02` — TECH STACK
 
-### Front-End
+### `FRONT-END`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
-</p>
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
 
-### Programming Languages
+### `PROGRAMMING LANGUAGES`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java" />
-</p>
+`C++` `Java`
 
-### Tools
+### `TOOLS`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`Git` `GitHub` `Visual Studio Code`
 
 ---
 
-## 03 — FEATURED PROJECTS
+## `03` — FEATURED PROJECTS
 
-### 🌐 Tailwind Footer
+### `01` — Tailwind Footer
 
-Responsive footer project built with Tailwind CSS while practicing modern Front-End development.
+> Modern responsive footer built with Tailwind CSS.
 
-**Tech:** HTML • Tailwind CSS
-
-<a href="https://github.com/Zana-moradi/tailwind-footer">
-  View Repository →
-</a>
-
-> More projects coming soon...
+**Stack:** `HTML` `Tailwind CSS`
 
 ---
 
-## 04 — GITHUB ACTIVITY
+## `04` — GITHUB ACTIVITY
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zana-moradi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zana-moradi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Zana-moradi&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117" width="48%"/>
 
-### 🔥 Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zana-moradi&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117" width="38%"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zana-moradi&theme=tokyonight&hide_border=true" />
-</p>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Zana-moradi&theme=dark&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<div align="center">
+
+`————————————————————`
+
+### `ALWAYS LEARNING. ALWAYS BUILDING.`
+
+`————————————————————`
+
+</div>
